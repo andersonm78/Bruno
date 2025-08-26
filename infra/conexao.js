@@ -8,6 +8,7 @@ const conexao = mysql.createConnection({
     database: 'cursosdb'
 });
 
-
+conexao.connect()
 /* Aplicamos o export para utilizar o objeto em outros aplicativos */
+
 export default conexao;
