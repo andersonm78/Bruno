@@ -1,0 +1,5 @@
+Erro 1: Cannot find package 'mysql' imported from C:\Users\36129382023.2n\Documents\api-rest\infra\conexao.js
+Erro 2: Unknown database 'cursodb'
+Erro 3: Access denied for user 'arthurguedes'@'localhost' (using password: NO)
+Erro 4: Error: connect ECONNREFUSED 127.0.0.1:3305
+Erro 5: Access denied for user 'root'@'localhost' (using password: YES)
